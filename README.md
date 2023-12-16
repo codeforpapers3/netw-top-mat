@@ -1,7 +1,7 @@
 Formalization of Network Topology Matrices
 
 - This repository contains a library for the network topology matrices using Isabelle/HOL theorem prover.
-- It can be used for to analyze network systems that represented by the directed graphs
+- It can be used for analyzing network systems that represented by the directed graphs
   using network topology matrices, including the incidence, loop and cutset matrices.
 
 - The order for running the files:
