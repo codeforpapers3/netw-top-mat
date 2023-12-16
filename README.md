@@ -7,14 +7,14 @@ Formalization of Network Topology Matrices
 - The order for running the files:
   - Matrix_Vector_Auixilary.thy
   - Network_Incidence_System.thy
-  3- Incidence_Matrix.thy
-  4- Application_Incidence.thy
-  5- Network_Loop_System.thy
-  6- Loop_Matrix.thy
-  7- Application_Loop.thy
-  8- Network_Cutset_System.thy
-  9- Cutset_Matrix.thy
-  10- Application_Cutset.thy
+  - Incidence_Matrix.thy
+  - Application_Incidence.thy
+  - Network_Loop_System.thy
+  - Loop_Matrix.thy
+  - Application_Loop.thy
+  - Network_Cutset_System.thy
+  - Cutset_Matrix.thy
+  - Application_Cutset.thy
 
 - Compatible Isabelle/HOL version: Isabelle2022 (and 2021)
 
