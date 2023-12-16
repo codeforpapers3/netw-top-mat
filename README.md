@@ -5,8 +5,8 @@ Formalization of Network Topology Matrices
   using network topology matrices, including the incidence, loop and cutset matrices.
 
 - The order for running the files:
-  1- Matrix_Vector_Auixilary.thy
-  2- Network_Incidence_System.thy
+  - Matrix_Vector_Auixilary.thy
+  - Network_Incidence_System.thy
   3- Incidence_Matrix.thy
   4- Application_Incidence.thy
   5- Network_Loop_System.thy
